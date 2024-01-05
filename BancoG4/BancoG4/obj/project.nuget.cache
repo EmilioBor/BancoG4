@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zOUXsD2rO5XsXR8qwnBBKsrQx27LudcY35IXxwXKolMF/L2ysZyXal7suLvS7R+okTWqhanKAIoe5U2B/H7rJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emili\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
