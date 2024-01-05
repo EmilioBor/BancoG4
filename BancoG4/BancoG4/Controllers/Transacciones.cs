@@ -7,5 +7,6 @@ namespace BancoG4.Controllers
     [ApiController]
     public class Transacciones : ControllerBase
     {
+
     }
 }
