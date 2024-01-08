@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZbvOV507n3S4fEtwJKMsDNxHbsQG8WMiVA00LUVVFE2zkXQOmAb5NNw6yPId+Dc09Wa8Jsq7LBQ4ONgu5FKcZA==",
+  "dgSpecHash": "CJhQWfFUK3Aj6+2DToCND4nndSpixpGZPMM7qUyQPMysfppsYmCXauZY4V4hBAdglQeVpbSV1HXUWIbWubfyIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4\\BancoG4.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.14\\microsoft.entityframeworkcore.analyzers.7.0.14.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.14\\microsoft.entityframeworkcore.design.7.0.14.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.14\\microsoft.entityframeworkcore.relational.7.0.14.nupkg.sha512",
+    "C:\\Users\\emili\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.14\\microsoft.entityframeworkcore.tools.7.0.14.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
