@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4.csproj": {}
+    "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4\\BancoG4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4.csproj": {
+    "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4\\BancoG4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4.csproj",
+        "projectUniqueName": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4\\BancoG4.csproj",
         "projectName": "BancoG4",
-        "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4.csproj",
+        "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4\\BancoG4.csproj",
         "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\BancoG4\\obj\\",
+        "outputPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,27 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -68,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
