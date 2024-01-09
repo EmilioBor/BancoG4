@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ORi0yIYuu+UhDy91JvjHEs2OS6wNL/HwU+r/hCHa9S42bfQXmTbUvBojBlHoa7ITt4iA2AQDPYnk/dKtwVFiog==",
+  "dgSpecHash": "+t2Sq5XKMEzkShyzJdffgitsjQ60hQXSHAoFoHrxoFRMzQrHp5GGzRLWePCApnVKC8t6ou6uoK2O1jl/gAIohQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Servicios\\Servicios.csproj",
+  "projectFilePath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Servicios\\Servicios.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emili\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\emili\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\7.0.11\\microsoft.aspnetcore.diagnostics.entityframeworkcore.7.0.11.nupkg.sha512",
