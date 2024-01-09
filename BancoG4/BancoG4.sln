@@ -7,8 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BancoG4", "BancoG4\BancoG4.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Servicios", "Servicios\Servicios.csproj", "{ECE7A078-3DE4-4792-A902-0710DFA24F7E}"
 EndProject
+<<<<<<< HEAD
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{8F6F8604-6689-44CE-A932-8054BB11C96A}"
 EndProject
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{D9F478D2-C770-48EF-AC11-CA7D06E10F61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Model", "Model\Model.csproj", "{8F6F8604-6689-44CE-A932-8054BB11C96A}"
+EndProject
+>>>>>>> 3a08512c76bb269800526614fc74a69393ca2645
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +30,13 @@ Global
 		{ECE7A078-3DE4-4792-A902-0710DFA24F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECE7A078-3DE4-4792-A902-0710DFA24F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECE7A078-3DE4-4792-A902-0710DFA24F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
+=======
+		{D9F478D2-C770-48EF-AC11-CA7D06E10F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F478D2-C770-48EF-AC11-CA7D06E10F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F478D2-C770-48EF-AC11-CA7D06E10F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F478D2-C770-48EF-AC11-CA7D06E10F61}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 3a08512c76bb269800526614fc74a69393ca2645
 		{8F6F8604-6689-44CE-A932-8054BB11C96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8F6F8604-6689-44CE-A932-8054BB11C96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F6F8604-6689-44CE-A932-8054BB11C96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
