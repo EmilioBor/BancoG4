@@ -1,6 +1,19 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\obj\\",
+=======
     "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Data\\Data.csproj": {}
   },
   "projects": {
@@ -85,6 +98,7 @@
         "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\obj\\",
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,6 +126,8 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+<<<<<<< HEAD
+=======
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
@@ -122,6 +138,7 @@
               "version": "[7.0.11, )"
             }
           },
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
           "imports": [
             "net461",
             "net462",
@@ -138,7 +155,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+=======
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
         }
       }
     }

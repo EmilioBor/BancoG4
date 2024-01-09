@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Data
+<<<<<<< HEAD
+build_property.ProjectDir = C:\Users\emili\OneDrive\Escritorio\Desarrollo\Banco\BancoG4\Data\
+=======
 build_property.ProjectDir = C:\Users\emili\OneDrive\Escritorio\UTN\Desarrollo\Banco\BancoG4\BancoG4\Data\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
