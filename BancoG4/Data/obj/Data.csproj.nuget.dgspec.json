@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\Data.csproj": {}
   },
   "projects": {
@@ -12,6 +13,92 @@
         "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\Data.csproj",
         "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\Data\\obj\\",
+=======
+    "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Data\\Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\emili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emili\\OneDrive\\Escritorio\\UTN\\Desarrollo\\Banco\\BancoG4\\BancoG4\\Model\\obj\\",
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +126,19 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+<<<<<<< HEAD
+=======
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
           "imports": [
             "net461",
             "net462",
@@ -55,7 +155,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
         }
       }
     }
