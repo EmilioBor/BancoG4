@@ -1,7 +1,12 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "0+xpXk6ku5PVJJnF5qhltru51GR2SMAFY4gMnU1twKoMLYEsJseWMzmG9iwx6phU3WxlqA++P1+4HaAmmCq2OQ==",
   "success": false,
+=======
+  "dgSpecHash": "0zYEHDyKGOUVCibVJuqViysRSUBX34m0GNhjrf8QbA8Wi84MPGVK4Sx44y1LNgTTUB3r7L8idpr/8RTlplaRbg==",
+  "success": true,
+>>>>>>> dev
   "projectFilePath": "C:\\Users\\emili\\OneDrive\\Escritorio\\Desarrollo\\Banco\\BancoG4\\BancoG4\\BancoG4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emili\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
