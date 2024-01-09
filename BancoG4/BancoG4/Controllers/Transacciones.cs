@@ -8,5 +8,6 @@ namespace BancoG4.Controllers
     public class Transacciones : ControllerBase
     {
 
+
     }
 }
