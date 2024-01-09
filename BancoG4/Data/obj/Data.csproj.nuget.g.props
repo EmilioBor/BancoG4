@@ -10,8 +10,12 @@
 <<<<<<< HEAD
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.0</NuGetToolVersion>
 =======
+<<<<<<< HEAD
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.7.0</NuGetToolVersion>
+=======
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.8.0</NuGetToolVersion>
 >>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
+>>>>>>> a17ba4a568b1d8446385937bf6e0fa6302774989
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\emili\.nuget\packages\" />
@@ -19,7 +23,14 @@
 <<<<<<< HEAD
 =======
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.14\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.14\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.11\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore\7.0.11\buildTransitive\net6.0\Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design\7.0.11\build\net6.0\Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design\7.0.11\build\net6.0\Microsoft.EntityFrameworkCore.Design.props')" />
   </ImportGroup>
+<<<<<<< HEAD
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgMicrosoft_EntityFrameworkCore_Tools Condition=" '$(PkgMicrosoft_EntityFrameworkCore_Tools)' == '' ">C:\Users\emili\.nuget\packages\microsoft.entityframeworkcore.tools\7.0.11</PkgMicrosoft_EntityFrameworkCore_Tools>
+  </PropertyGroup>
+=======
 >>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
+>>>>>>> a17ba4a568b1d8446385937bf6e0fa6302774989
 </Project>
