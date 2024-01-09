@@ -6,6 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+<<<<<<< HEAD
+=======
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="7.0.11" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.11" />
@@ -25,4 +27,5 @@
     <ProjectReference Include="..\Model\Model.csproj" />
   </ItemGroup>
 
+>>>>>>> 24e85d0552bf40685b9d99893bdb2087a95bcce4
 </Project>
